@@ -1,15 +1,15 @@
-export default [
+export const january = [
   {
     id: 1,
     name: "Ademola Olusegun",
     birthday: "Feb 11th ",
-    department: "Media Department",
-    image: "INNOVA.jpg",
+    department: "Media Department.",
+    image: "assets/INNOVA.jpg",
   },
   {
     id: 2,
     name: "Hester Hogan",
-    department: 32,
+    department: "Sanitation",
     image: "https://www.course-api.com/images/people/person-2.jpeg",
   },
   {
@@ -30,4 +30,7 @@ export default [
     department: 29,
     image: "https://www.course-api.com/images/people/person-5.jpeg",
   },
+];
+export const february = [
+  { id: 5, name: "Lola Gardner", department: 29, image: "/assets/INNOVA.jpg" },
 ];
