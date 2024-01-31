@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  height: 12rem;
+  width: 12rem;
+  border-radius: 50%;
+}
+.person {
+  max-width: 75vw;
+  background-color: rgba(255, 217, 0, 0.447);
+  margin: 4rem;
+  border-radius: 12px;
+}
+.person > h1 {
+  color: rgb(33, 115, 15);
+}
+.person > h2 {
+  color: rgba(50, 20, 221, 0.557);
+}
+.person:hover {
+  background-color: gold;
+}
