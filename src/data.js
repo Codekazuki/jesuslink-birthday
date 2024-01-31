@@ -1,9 +1,10 @@
 export default [
   {
     id: 1,
-    name: "Bertie Yates",
-    department: 29,
-    image: "https://www.course-api.com/images/people/person-1.jpeg",
+    name: "Ademola Olusegun",
+    birthday: "Feb 11th ",
+    department: "Media Department",
+    image: "INNOVA.jpg",
   },
   {
     id: 2,
