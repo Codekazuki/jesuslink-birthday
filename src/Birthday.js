@@ -4,9 +4,9 @@ const Birthday = () => {
   return (
     <div>
       {january.map((person) => {
-        const { name, department, image, birthday } = person;
+        const { name, department, image, birthday, id } = person;
         return (
-          <div className='person'>
+          <div key={id} className='person'>
             <img src={image} alt='' />
             <h1>{name}</h1>
             <h2>{department}</h2>

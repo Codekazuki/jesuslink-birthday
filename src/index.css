@@ -10,7 +10,7 @@ img {
 }
 .person {
   max-width: 75vw;
-  background-color: rgba(255, 217, 0, 0.447);
+  background-color: rgba(0, 200, 255, 0.196);
   margin: 4rem;
   border-radius: 12px;
 }
@@ -25,4 +25,35 @@ img {
 }
 .date::first-letter {
   text-transform: uppercase;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #6f65cc;
+  color: #fff;
+}
+.logo {
+  height: 20vh;
+}
+.logo img {
+  height: 100%;
+  width: auto;
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigation a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  font-family: cursive;
+  font-size: large;
+}
+
+.navigation a:hover {
+  color: green;
 }
