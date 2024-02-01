@@ -11,6 +11,7 @@ img {
 .person {
   max-width: 75vw;
   background-color: rgba(0, 200, 255, 0.196);
+
   margin: 4rem;
   border-radius: 12px;
 }
