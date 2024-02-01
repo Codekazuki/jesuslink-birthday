@@ -10,7 +10,7 @@ const Birthday = () => {
             <img src={image} alt='' />
             <h1>{name}</h1>
             <h2>{department}</h2>
-            <h1>{birthday}</h1>
+            <h1 className='date'>{birthday}</h1>
           </div>
         );
       })}

@@ -83,11 +83,11 @@ export const january = [
 export const february = [
   {
     id: 1,
-    name: "",
-    birthday: "",
+    name: "Mary Precious",
+    birthday: "february 22",
     department: "",
     image: "",
-    contact: "",
+    contact: "09162212294",
   },
 
   {
