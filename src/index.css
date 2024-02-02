@@ -56,5 +56,5 @@ img {
 }
 
 .navigation a:hover {
-  color: green;
+  color: rgba(0, 128, 0, 0.669);
 }
