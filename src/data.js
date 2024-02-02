@@ -85,8 +85,8 @@ export const february = [
     id: 1,
     name: "David Mary Precious",
     birthday: "february 22nd",
-    department: "",
-    image: "",
+    department: "Choir",
+    image: "assets/INNOVA.jpg",
     contact: "09162212294",
   },
 
@@ -95,15 +95,15 @@ export const february = [
     name: "Adesanya Adesola",
     birthday: "February 13th",
     department: "",
-    image: "",
+    image: "assets/INNOVA.jpg",
     contact: "09033355201",
   },
   {
     id: 3,
-    name: "Idii NAemeka Festus",
+    name: "Idii Naemeka Festus",
     birthday: "February 6th",
-    department: "",
-    image: "",
+    department: "Junior Church",
+    image: "assets/INNOVA.jpg",
     contact: "08085460160",
   },
 
@@ -112,7 +112,7 @@ export const february = [
     name: "Usman Olabode",
     birthday: "February 18th",
     department: "Junior Church",
-    image: "",
+    image: "assets/INNOVA.jpg",
     contact: "08020994119",
   },
   {
@@ -120,7 +120,7 @@ export const february = [
     name: "Lawal Bolanle",
     birthday: "february 14th",
     department: "",
-    image: "",
+    image: "assets/INNOVA.jpg",
     contact: "08075342397",
   },
   {
@@ -128,7 +128,7 @@ export const february = [
     name: "Onoyibo Isaac",
     birthday: "february 5th",
     department: "",
-    image: "",
+    image: "assets/INNOVA.jpg",
     contact: "08067628947",
   },
 ];
