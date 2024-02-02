@@ -1,5 +1,5 @@
 import "./App.css";
-import Birthday from "./Birthday";
+// import Birthday from "./Birthday";
 import Correction from "./Correction";
 import Header from "./Header";
 
