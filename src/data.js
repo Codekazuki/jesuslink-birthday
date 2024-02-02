@@ -83,6 +83,14 @@ export const january = [
 export const february = [
   {
     id: 1,
+    name: " Sister Adekoya ",
+    birthday: "february 1st",
+    department: "Sanitation",
+    image: "assets/mumyosola.jfif",
+    contact: "08029027193",
+  },
+  {
+    id: 2,
     name: "David Mary Precious",
     birthday: "february 22nd",
     department: "Choir",
@@ -91,7 +99,7 @@ export const february = [
   },
 
   {
-    id: 2,
+    id: 3,
     name: "Adesanya Adesola",
     birthday: "February 13th",
     department: "",
@@ -99,7 +107,7 @@ export const february = [
     contact: "09033355201",
   },
   {
-    id: 3,
+    id: 4,
     name: "Idii Naemeka Festus",
     birthday: "February 6th",
     department: "Junior Church",
@@ -108,7 +116,7 @@ export const february = [
   },
 
   {
-    id: 4,
+    id: 5,
     name: "Usman Olabode",
     birthday: "February 18th",
     department: "Junior Church",
@@ -116,7 +124,7 @@ export const february = [
     contact: "08020994119",
   },
   {
-    id: 5,
+    id: 6,
     name: "Lawal Bolanle",
     birthday: "february 14th",
     department: "",
@@ -124,20 +132,12 @@ export const february = [
     contact: "08075342397",
   },
   {
-    id: 6,
+    id: 7,
     name: "Onoyibo Isaac",
     birthday: "february 5th",
     department: "Men",
     image: "assets/INNOVA.jpg",
     contact: "08067628947",
-  },
-  {
-    id: 7,
-    name: " Sister Adekoya ",
-    birthday: "february 1st",
-    department: "Sanitation",
-    image: "assets/mumyosola.jfif",
-    contact: "08029027193",
   },
 ];
 
