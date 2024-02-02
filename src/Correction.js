@@ -8,10 +8,12 @@ const Correction = () => {
   const [people, setPeople] = useState(february);
 
   return (
-    <section className='container'>
-      <h3>{people.length} birthdays this month</h3>
-      <List people={people} />
-    </section>
+    <main>
+      <section className='container'>
+        <h3>{people.length} birthdays this month</h3>
+        <List people={people} />
+      </section>
+    </main>
   );
 };
 

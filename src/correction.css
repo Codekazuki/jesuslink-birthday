@@ -258,3 +258,22 @@ ul {
 body {
   background: var(--primary-100);
 }
+.person img {
+  width: 16rem;
+  height: 16rem;
+  border-radius: 50%;
+  box-shadow: var(--shadow-4);
+}
+main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 90vw;
+  max-width: var(--fixed-width);
+  margin: 5rem 0;
+  background: white;
+  border-radius: 2rem;
+}
