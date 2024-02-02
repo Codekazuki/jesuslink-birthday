@@ -308,3 +308,15 @@ main {
   margin-bottom: 1rem;
   font-weight: 700;
 }
+.bible {
+  color: rgb(200, 0, 255);
+  font-weight: 700;
+  font-style: italic;
+  font-family: cursive;
+  display: block;
+  margin: 2rem 0;
+}
+.quote {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 3rem;
+}
