@@ -1,19 +1,6 @@
-/* * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-img {
-  height: 12rem;
-  width: 12rem;
-  border-radius: 50%;
-}
-.person {
-  max-width: 75vw;
-  background-color: rgba(0, 200, 255, 0.196);
-
-  margin: 4rem;
-  border-radius: 12px;
+.person:hover {
+  background-color: #5adaff;
+  color: white;
 }
 .person > h1 {
   color: rgb(33, 115, 15);
@@ -21,9 +8,7 @@ img {
 .person > h2 {
   color: rgba(50, 20, 221, 0.557);
 }
-.person:hover {
-  background-color: gold;
-}
+
 .date::first-letter {
   text-transform: uppercase;
 }
@@ -32,7 +17,8 @@ img {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: #6f65cc;
+  background-color: #00dbde;
+  background-image: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);
   color: #fff;
 }
 .logo {
@@ -54,7 +40,3 @@ img {
   font-family: cursive;
   font-size: large;
 }
-
-.navigation a:hover {
-  color: rgba(0, 128, 0, 0.669);
-} */

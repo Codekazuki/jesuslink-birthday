@@ -97,7 +97,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.953rem;
+  font-size: 2rem;
 }
 
 h4 {
@@ -258,11 +258,36 @@ ul {
 body {
   background: var(--primary-100);
 }
+.person {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  max-width: 85vw;
+  background-color: #e8faff;
+  margin: 3rem;
+  border-radius: 12px;
+}
+
 .person img {
   width: 16rem;
   height: 16rem;
   border-radius: 50%;
   box-shadow: var(--shadow-4);
+}
+.person h4 {
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 0.5rem;
+}
+.person p {
+  color: #b48608;
+  font-family: "Droid serif", serif;
+  font-size: 36px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 44px;
+  margin: 0 0 12px;
 }
 main {
   min-height: 100vh;
@@ -276,4 +301,10 @@ main {
   margin: 5rem 0;
   background: white;
   border-radius: 2rem;
+  padding: 1.5rem 2rem;
+  box-shadow: var(--shadow-1);
+}
+.container h3 {
+  margin-bottom: 1rem;
+  font-weight: 700;
 }
