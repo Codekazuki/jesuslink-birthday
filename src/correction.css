@@ -312,7 +312,7 @@ main {
   flex-direction: column;
   max-width: 85vw;
   background-color: #e8faff;
-  margin: 3rem;
+  margin: 2rem 0.5rem;
   border-radius: 12px;
 }
 .person:hover {
@@ -428,7 +428,7 @@ main {
     flex-direction: column;
     max-width: 85vw;
     background-color: #e8faff;
-    margin: 0.2rem;
+    margin: 2rem 0.2rem;
     border-radius: 8px;
   }
 
