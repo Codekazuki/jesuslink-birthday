@@ -127,9 +127,17 @@ export const february = [
     id: 6,
     name: "Onoyibo Isaac",
     birthday: "february 5th",
-    department: "",
+    department: "Men",
     image: "assets/INNOVA.jpg",
     contact: "08067628947",
+  },
+  {
+    id: 7,
+    name: " Sister Adekoya ",
+    birthday: "february 1st",
+    department: "Sanitation",
+    image: "assets/mumyosola.jfif",
+    contact: "08029027193",
   },
 ];
 
