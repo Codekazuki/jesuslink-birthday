@@ -45,4 +45,21 @@
 
     font-size: medium;
   }
+  .person {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    max-width: 85vw;
+    background-color: #e8faff;
+    margin: 0.2rem;
+    border-radius: 8px;
+  }
+
+  .person img {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    box-shadow: var(--shadow-4);
+  }
 }
