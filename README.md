@@ -1,3 +1,8 @@
+This is a project i created for my church
+The pur pose id for me to be able track all the celebrants for a particular month
+When i become a full stack, I will build a website that will be fully functional
+So help me God
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
