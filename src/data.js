@@ -147,7 +147,7 @@ export const march = [
     name: "ADEYEYE BLESSING",
     birthday: "10th MARCH",
     department: "",
-    image: "",
+    image: "assets/mumyosola.jfif",
     contact: "07060892222",
   },
   {
