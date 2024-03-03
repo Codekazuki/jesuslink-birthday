@@ -1,9 +1,9 @@
 import React from "react";
-import { february } from "./data.js";
+import { march } from "./data.js";
 const Birthday = () => {
   return (
     <div>
-      {february.map((person) => {
+      {march.map((person) => {
         const { name, department, image, birthday, id } = person;
         return (
           <div key={id} className='person'>
