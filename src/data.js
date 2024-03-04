@@ -193,7 +193,7 @@ export const march = [
   {
     id: 7,
     name: "AKINLUSI FUNSO OLUWAGBEMIGA",
-    birthday: "MARCH",
+    birthday: "19th MARCH",
     department: "",
     image: "",
     contact: "09065744501",
