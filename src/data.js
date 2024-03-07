@@ -183,14 +183,6 @@ export const march = [
     contact: "07036596622",
   },
   {
-    id: 6,
-    name: "OGUNBARE IBUKUNOLUA",
-    birthday: "7th MARCH",
-    department: "",
-    image: "",
-    contact: "08068800483",
-  },
-  {
     id: 7,
     name: "AKINLUSI FUNSO OLUWAGBEMIGA",
     birthday: "19th MARCH",
