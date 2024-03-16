@@ -377,48 +377,6 @@ main {
   font-family: cursive;
   font-size: large;
 }
-/* @media only screen and (max-width: 320px) {
-  .navigation a {
-    margin-right: 0.3rem;
-
-    font-size: medium;
-  }
-  .person {
-    display: flex;
-    align-items: center;
-    align-content: center;
-    flex-direction: column;
-    max-width: 85vw;
-    background-color: #e8faff;
-    margin: 0.2rem;
-    border-radius: 8px;
-  }
-
-  .person img {
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
-    box-shadow: var(--shadow-4);
-  }
-}
-@media only screen and (max-width: 375px) {
-  .person {
-    display: flex;
-    align-items: center;
-    align-content: center;
-    flex-direction: column;
-    max-width: 85vw;
-    background-color: #fc0909;
-    margin: 0.2rem;
-  }
-
-  .person img {
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
-    box-shadow: var(--shadow-4);
-  }
-} */
 
 @media only screen and (max-width: 768px) {
   .person {
