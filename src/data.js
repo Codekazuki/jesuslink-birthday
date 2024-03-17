@@ -43,7 +43,7 @@ export const january = [
     id: 6,
     name: "Usman Opeoluwa",
     birthday: "January 24th",
-    department: "Children Church",
+    department: "Children Department",
     image: "",
     contact: "08088929251",
   },
@@ -166,22 +166,7 @@ export const march = [
     image: "",
     contact: "07084372867",
   },
-  {
-    id: 4,
-    name: "ADEBANJO OLUWAFEMI BENJAMIN",
-    birthday: "11th MARCH",
-    department: "",
-    image: "",
-    contact: "08071105594",
-  },
-  {
-    id: 5,
-    name: "ADEBAYO OYINKANSADE",
-    birthday: "16th MARCH",
-    department: "",
-    image: "",
-    contact: "07036596622",
-  },
+
   {
     id: 7,
     name: "AKINLUSI FUNSO OLUWAGBEMIGA",
@@ -626,14 +611,7 @@ export const august = [
     image: "",
     contact: "08062471902",
   },
-  {
-    id: 6,
-    name: "Onafowope Temiloluwa",
-    birthday: "august 14th",
-    department: "",
-    image: "",
-    contact: "08023177541",
-  },
+
   {
     id: 7,
     name: "Marcus Gbenga",
