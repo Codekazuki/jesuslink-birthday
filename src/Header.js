@@ -2,9 +2,11 @@ import React from "react";
 import { useState } from "react";
 
 const Header = () => {
-  const [home, setHome] = useState("");
+  // fix this later
+  const [home, setHome] = useState("home");
   function handleHome() {
     setHome("Hommie");
+    console.log("home is clicked");
   }
   return (
     <header className='header'>
@@ -12,6 +14,7 @@ const Header = () => {
         <img src='./assets/rccg-for-web.png' alt='Logo' />
       </div>
       <nav className='navigation'>
+        {/* work on this too */}
         <a href='/' onClick={handleHome}>
           Home
         </a>
