@@ -188,7 +188,7 @@ export const april = [
   {
     id: 2,
     name: "ODE DAVID",
-    birthday: "2th APRIL",
+    birthday: "2nd APRIL",
     department: "",
     image: "",
     contact: "08144666135",
