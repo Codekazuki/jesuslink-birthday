@@ -1,5 +1,5 @@
 import React from "react";
-import { may } from "./data.js";
+import { june } from "./data.js";
 const Birthday = () => {
   return (
     <div>

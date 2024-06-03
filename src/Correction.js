@@ -10,7 +10,7 @@ const Correction = () => {
   return (
     <main>
       <section className='container'>
-        <h3>{people.length} birthdays this month of May</h3>
+        <h3>{people.length} birthdays this month of June</h3>
         <List people={people} />
       </section>
     </main>
