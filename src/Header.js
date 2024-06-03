@@ -6,7 +6,6 @@ const Header = () => {
   const [home, setHome] = useState("home");
   function handleHome() {
     setHome("Hommie");
-    console.log("home is clicked");
   }
   return (
     <header className='header'>

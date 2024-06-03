@@ -1,11 +1,11 @@
 import List from "./List";
 import "./correction.css";
-import { may } from "./data";
+import { june } from "./data";
 
 import React, { useState } from "react";
 
 const Correction = () => {
-  const [people, setPeople] = useState(may);
+  const [people, setPeople] = useState(june);
 
   return (
     <main>
