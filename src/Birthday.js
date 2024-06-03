@@ -3,7 +3,7 @@ import { june } from "./data.js";
 const Birthday = () => {
   return (
     <div>
-      {may.map((person) => {
+      {june.map((person) => {
         const { name, department, image, birthday, id } = person;
         return (
           <div key={id} className='person'>
