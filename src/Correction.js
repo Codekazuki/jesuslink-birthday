@@ -1,16 +1,16 @@
 import List from "./List";
 import "./correction.css";
-import { june } from "./data";
+import { july } from "./data";
 
 import React, { useState } from "react";
 
 const Correction = () => {
-  const [people, setPeople] = useState(june);
+  const [people, setPeople] = useState(july);
 
   return (
     <main>
       <section className='container'>
-        <h3>{people.length} birthdays this month of June</h3>
+        <h3>{people.length} birthdays this month of July</h3>
         <List people={people} />
       </section>
     </main>
