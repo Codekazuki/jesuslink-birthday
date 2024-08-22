@@ -575,8 +575,8 @@ export const august = [
     id: 1,
     name: "Adekoya Omoyosola",
     birthday: "august 25th",
-    department: "",
-    image: "",
+    department: "Junior Church",
+    image: "assets/INNOVA.jpg",
     contact: "08109795785",
   },
   {
